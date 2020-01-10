@@ -46,4 +46,16 @@ entries:
     urls:
     - https://charts.blazure.com/nzbhydra-0.0.1-011.faf5a71.tgz
     version: 0.0.1-011.faf5a71
-generated: "2020-01-10T19:58:46.947693202Z"
+  tautulli:
+  - apiVersion: v1
+    appVersion: latest
+    created: "2020-01-10T19:58:51.402430917Z"
+    description: Tautulli integrates with Plex to provide you a feature-rich dashboard
+      of statistics from user activity to a graphical history of streams, play count,
+      along with configurable notifications, and more.
+    digest: fb1a94c1d7563a651c907ff08416932cc43327b19f0b8b36ef11f8164838c6e8
+    name: tautulli
+    urls:
+    - https://charts.blazure.com/tautulli-0.0.1-013.c319361.tgz
+    version: 0.0.1-013.c319361
+generated: "2020-01-10T19:58:51.401440802Z"
