@@ -30,6 +30,15 @@ entries:
     version: 0.1.3
   - apiVersion: v1
     appVersion: "1.0"
+    created: "2020-01-10T19:58:46.948458393Z"
+    description: A Helm chart for Kubernetes
+    digest: b9a5d1c5321ee842a0b16fd48d09ecdde8d0fa59ad4137249f1832d855741162
+    name: nzbhydra
+    urls:
+    - https://charts.blazure.com/nzbhydra-0.0.1-013.c319361.tgz
+    version: 0.0.1-013.c319361
+  - apiVersion: v1
+    appVersion: "1.0"
     created: "2020-01-10T19:45:33.95426972Z"
     description: A Helm chart for Kubernetes
     digest: 98c66f5c03f134c3a4568cafd2f2925ed85dadc3857bc46fb22571d1b5ad0752
@@ -37,4 +46,4 @@ entries:
     urls:
     - https://charts.blazure.com/nzbhydra-0.0.1-011.faf5a71.tgz
     version: 0.0.1-011.faf5a71
-generated: "2020-01-10T19:45:33.952932678Z"
+generated: "2020-01-10T19:58:46.947693202Z"
