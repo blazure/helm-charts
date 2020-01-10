@@ -1,0 +1,10 @@
+title: Blazure Helm chart repo
+description: A chart repo for storing charts.
+theme: minima
+url: "https://charts.blazure.com/"
+repo_name: helm-charts
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .gitignore
