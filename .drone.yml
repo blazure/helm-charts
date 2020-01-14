@@ -33,3 +33,7 @@ steps:
     path: .
     ssh_key:
       from_secret: SSH_KEY
+
+trigger:
+  branch:
+  - gh-pages
