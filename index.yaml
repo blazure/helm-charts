@@ -3,75 +3,12 @@ entries:
   ombi:
   - apiVersion: v1
     appVersion: 4.0.4994-ls59
-    created: "2020-01-14T19:47:55.857645375Z"
+    created: "2020-01-14T19:54:18.297291396Z"
     description: Ombi is a self-hosted web application that automatically gives your
       shared Plex or Emby users the ability to request content by themselves! Ombi
       can be linked to multiple TV Show and Movie DVR tools to create a seamless end-to-end
       experience for your users.
-    digest: 5dde209417a91d84d0e404d17260e2f52c5c7895c2a1ece14d95b160ade3e5df
-    home: https://github.com/carpenike/chart-ombi
-    icon: https://raw.githubusercontent.com/tidusjar/Ombi/master/src/Ombi/wwwroot/images/favicon/favicon.ico
-    keywords:
-    - ombi
-    maintainers:
-    - email: ryan@ryanholt.net
-      name: Ryan Holt
-    name: ombi
-    sources:
-    - https://github.com/tidusjar/Ombi
-    urls:
-    - https://charts.blazure.com/ombi-1.3.tgz
-    version: "1.3"
-  - apiVersion: v1
-    appVersion: 4.0.4994-ls59
-    created: "2020-01-14T19:47:55.857115875Z"
-    description: Ombi is a self-hosted web application that automatically gives your
-      shared Plex or Emby users the ability to request content by themselves! Ombi
-      can be linked to multiple TV Show and Movie DVR tools to create a seamless end-to-end
-      experience for your users.
-    digest: 8d1b59e47e2aa2b2a235b03952e4be090363cb09559bace350ec740879f159d2
-    home: https://github.com/tidusjar/Ombi
-    icon: https://raw.githubusercontent.com/tidusjar/Ombi/master/src/Ombi/wwwroot/images/favicon/favicon.ico
-    keywords:
-    - ombi
-    maintainers:
-    - email: ryan@ryanholt.net
-      name: Ryan Holt
-    name: ombi
-    sources:
-    - https://github.com/tidusjar/Ombi
-    urls:
-    - https://charts.blazure.com/ombi-1.2.tgz
-    version: "1.2"
-  - apiVersion: v1
-    appVersion: 3.0.4892
-    created: "2020-01-14T19:47:55.856477332Z"
-    description: Ombi is a self-hosted web application that automatically gives your
-      shared Plex or Emby users the ability to request content by themselves! Ombi
-      can be linked to multiple TV Show and Movie DVR tools to create a seamless end-to-end
-      experience for your users.
-    digest: d3ca3808e0723ba0196a996be4b46c8c2be0b7a4fb32c8c0cdd4b4d723593673
-    home: https://github.com/tidusjar/Ombi
-    icon: https://raw.githubusercontent.com/tidusjar/Ombi/master/src/Ombi/wwwroot/images/favicon/favicon.ico
-    keywords:
-    - ombi
-    maintainers:
-    - email: ryan@ryanholt.net
-      name: Ryan Holt
-    name: ombi
-    sources:
-    - https://github.com/tidusjar/Ombi
-    urls:
-    - https://charts.blazure.com/ombi-1.1.tgz
-    version: "1.1"
-  - apiVersion: v1
-    appVersion: 4.0.4994-ls59
-    created: "2020-01-14T19:47:55.855844834Z"
-    description: Ombi is a self-hosted web application that automatically gives your
-      shared Plex or Emby users the ability to request content by themselves! Ombi
-      can be linked to multiple TV Show and Movie DVR tools to create a seamless end-to-end
-      experience for your users.
-    digest: aed1aa5fda6989c0002e78d4c857e9e82c11a09a9f72b4940a9d006bded449a5
+    digest: 5f071e6e339235ba34b243be427f5cac3b6e0d64033508c8b9ff534831f73650
     home: https://github.com/carpenike/chart-ombi
     icon: https://raw.githubusercontent.com/tidusjar/Ombi/master/src/Ombi/wwwroot/images/favicon/favicon.ico
     keywords:
@@ -88,7 +25,7 @@ entries:
   tautulli:
   - apiVersion: v1
     appVersion: latest
-    created: "2020-01-14T19:47:55.858550385Z"
+    created: "2020-01-14T19:54:18.298201721Z"
     description: Tautulli integrates with Plex to provide you a feature-rich dashboard
       of statistics from user activity to a graphical history of streams, play count,
       along with configurable notifications, and more.
@@ -105,7 +42,7 @@ entries:
     version: 0.1.3
   - apiVersion: v1
     appVersion: latest
-    created: "2020-01-14T19:47:55.858083026Z"
+    created: "2020-01-14T19:54:18.297757755Z"
     description: Tautulli integrates with Plex to provide you a feature-rich dashboard
       of statistics from user activity to a graphical history of streams, play count,
       along with configurable notifications, and more.
@@ -114,4 +51,4 @@ entries:
     urls:
     - https://charts.blazure.com/tautulli-0.1.2.tgz
     version: 0.1.2
-generated: "2020-01-14T19:47:55.854769601Z"
+generated: "2020-01-14T19:54:18.296460113Z"
