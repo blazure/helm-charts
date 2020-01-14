@@ -1,0 +1,27 @@
+---
+kind: pipeline
+type: kubernetes
+name: default
+
+steps:
+- name: build
+  image: dtzar/helm-kubectl:2.16.1
+  commands:
+  - git checkout gh-pages
+  - helm init -c
+  - helm repo index --url https://charts.blazure.com ./
+
+- name: push_gh-pages
+  image: appleboy/drone-git-push
+  settings:
+    remote: git@github.com:carpenike/helm-charts.git
+    # remote_name: origin
+    branch: gh-pages
+    local_branch: gh-pages
+    commit: true
+    force: true
+    author_name: "[Automated] Drone.IO"
+    author_email: "drone@holthome.net"
+    path: helm-charts
+    ssh_key:
+      from_secret: SSH_KEY
