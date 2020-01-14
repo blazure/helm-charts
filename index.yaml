@@ -3,7 +3,7 @@ entries:
   ombi:
   - apiVersion: v1
     appVersion: 4.0.4994-ls59
-    created: "2020-01-14T19:35:39.97693044Z"
+    created: "2020-01-14T19:46:23.243396286Z"
     description: Ombi is a self-hosted web application that automatically gives your
       shared Plex or Emby users the ability to request content by themselves! Ombi
       can be linked to multiple TV Show and Movie DVR tools to create a seamless end-to-end
@@ -24,7 +24,7 @@ entries:
     version: "1.3"
   - apiVersion: v1
     appVersion: 4.0.4994-ls59
-    created: "2020-01-14T19:35:39.976232864Z"
+    created: "2020-01-14T19:46:23.242896971Z"
     description: Ombi is a self-hosted web application that automatically gives your
       shared Plex or Emby users the ability to request content by themselves! Ombi
       can be linked to multiple TV Show and Movie DVR tools to create a seamless end-to-end
@@ -45,7 +45,7 @@ entries:
     version: "1.2"
   - apiVersion: v1
     appVersion: 3.0.4892
-    created: "2020-01-14T19:35:39.974777575Z"
+    created: "2020-01-14T19:46:23.242394046Z"
     description: Ombi is a self-hosted web application that automatically gives your
       shared Plex or Emby users the ability to request content by themselves! Ombi
       can be linked to multiple TV Show and Movie DVR tools to create a seamless end-to-end
@@ -67,7 +67,24 @@ entries:
   tautulli:
   - apiVersion: v1
     appVersion: latest
-    created: "2020-01-14T19:35:39.977503204Z"
+    created: "2020-01-14T19:46:23.244341271Z"
+    description: Tautulli integrates with Plex to provide you a feature-rich dashboard
+      of statistics from user activity to a graphical history of streams, play count,
+      along with configurable notifications, and more.
+    digest: cad4f08f2100d1dcbedd1b70e852fafda99ecd8370bce41197ad4e1a42e4f4be
+    home: https://github.com/carpenike/chart-tautulli
+    icon: https://tautulli.com/images/logo.svg
+    keywords:
+    - tautulli
+    name: tautulli
+    sources:
+    - https://github.com/Tautulli/Tautulli
+    urls:
+    - https://charts.blazure.com/tautulli-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v1
+    appVersion: latest
+    created: "2020-01-14T19:46:23.243863466Z"
     description: Tautulli integrates with Plex to provide you a feature-rich dashboard
       of statistics from user activity to a graphical history of streams, play count,
       along with configurable notifications, and more.
@@ -76,4 +93,4 @@ entries:
     urls:
     - https://charts.blazure.com/tautulli-0.1.2.tgz
     version: 0.1.2
-generated: "2020-01-14T19:35:39.973507789Z"
+generated: "2020-01-14T19:46:23.241675092Z"
