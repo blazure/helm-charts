@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Getting Started
+## Getting Started (remove me)
 
 {{ site.description }}
 
