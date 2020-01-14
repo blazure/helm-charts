@@ -30,6 +30,6 @@ steps:
     force: true
     author_name: "[Automated] Drone.IO"
     author_email: "drone@holthome.net"
-    path: helm-charts
+    path: .
     ssh_key:
       from_secret: SSH_KEY
