@@ -7,7 +7,7 @@ steps:
 - name: build
   image: dtzar/helm-kubectl:2.16.1
   commands:
-  - git checkout gh-pages
+  - git checkout origin/gh-pages
   - helm init -c
   - helm repo index --url https://charts.blazure.com ./
 
