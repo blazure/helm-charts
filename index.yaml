@@ -3,7 +3,7 @@ entries:
   ombi:
   - apiVersion: v1
     appVersion: 4.0.4994-ls59
-    created: "2020-01-14T19:20:59.928090453Z"
+    created: "2020-01-14T19:29:10.312423296Z"
     description: Ombi is a self-hosted web application that automatically gives your
       shared Plex or Emby users the ability to request content by themselves! Ombi
       can be linked to multiple TV Show and Movie DVR tools to create a seamless end-to-end
@@ -24,7 +24,7 @@ entries:
     version: "1.2"
   - apiVersion: v1
     appVersion: 3.0.4892
-    created: "2020-01-14T19:20:59.927540239Z"
+    created: "2020-01-14T19:29:10.311836896Z"
     description: Ombi is a self-hosted web application that automatically gives your
       shared Plex or Emby users the ability to request content by themselves! Ombi
       can be linked to multiple TV Show and Movie DVR tools to create a seamless end-to-end
@@ -43,4 +43,16 @@ entries:
     urls:
     - https://charts.blazure.com/ombi-1.1.tgz
     version: "1.1"
-generated: "2020-01-14T19:20:59.926750752Z"
+  tautulli:
+  - apiVersion: v1
+    appVersion: latest
+    created: "2020-01-14T19:29:10.312977405Z"
+    description: Tautulli integrates with Plex to provide you a feature-rich dashboard
+      of statistics from user activity to a graphical history of streams, play count,
+      along with configurable notifications, and more.
+    digest: e5fd0f3992b71cba11f559b7211208d34e4350d7ad20637dbdd14d216789e903
+    name: tautulli
+    urls:
+    - https://charts.blazure.com/tautulli-0.1.2.tgz
+    version: 0.1.2
+generated: "2020-01-14T19:29:10.31100721Z"
