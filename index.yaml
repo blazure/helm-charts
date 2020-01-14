@@ -3,12 +3,12 @@ entries:
   ombi:
   - apiVersion: v1
     appVersion: 4.0.4994-ls59
-    created: "2020-01-14T19:02:44.555675119Z"
+    created: "2020-01-14T19:13:37.388458946Z"
     description: Ombi is a self-hosted web application that automatically gives your
       shared Plex or Emby users the ability to request content by themselves! Ombi
       can be linked to multiple TV Show and Movie DVR tools to create a seamless end-to-end
       experience for your users.
-    digest: 3abb160a84052377e8a67ddfc58644382913bd6ea94c442c3398779fb8feb7ae
+    digest: c3850026e8cf333e793af90c481bd08dff845043fc7c231f704d3d3f9ce136a9
     home: https://github.com/tidusjar/Ombi
     icon: https://raw.githubusercontent.com/tidusjar/Ombi/master/src/Ombi/wwwroot/images/favicon/favicon.ico
     keywords:
@@ -24,7 +24,7 @@ entries:
     version: "1.2"
   - apiVersion: v1
     appVersion: 3.0.4892
-    created: "2020-01-14T19:02:44.555127403Z"
+    created: "2020-01-14T19:13:37.387985301Z"
     description: Ombi is a self-hosted web application that automatically gives your
       shared Plex or Emby users the ability to request content by themselves! Ombi
       can be linked to multiple TV Show and Movie DVR tools to create a seamless end-to-end
@@ -43,4 +43,4 @@ entries:
     urls:
     - https://charts.blazure.com/ombi-1.1.tgz
     version: "1.1"
-generated: "2020-01-14T19:02:44.554302208Z"
+generated: "2020-01-14T19:13:37.387284772Z"
