@@ -1,13 +1,25 @@
 apiVersion: v1
 entries:
-  nzbhydra:
+  ombi:
   - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-01-14T17:04:08.319061385Z"
-    description: A Helm chart for Kubernetes
-    digest: 5edb577e185c33500400abfac4370eb9d52a34004e75b4ffc2a95c7fcea774b3
-    name: nzbhydra
+    appVersion: 3.0.4892
+    created: "2020-01-14T17:38:55.647630277Z"
+    description: Ombi is a self-hosted web application that automatically gives your
+      shared Plex or Emby users the ability to request content by themselves! Ombi
+      can be linked to multiple TV Show and Movie DVR tools to create a seamless end-to-end
+      experience for your users.
+    digest: d3ca3808e0723ba0196a996be4b46c8c2be0b7a4fb32c8c0cdd4b4d723593673
+    home: https://github.com/tidusjar/Ombi
+    icon: https://raw.githubusercontent.com/tidusjar/Ombi/master/src/Ombi/wwwroot/images/favicon/favicon.ico
+    keywords:
+    - ombi
+    maintainers:
+    - email: ryan@ryanholt.net
+      name: Ryan Holt
+    name: ombi
+    sources:
+    - https://github.com/tidusjar/Ombi
     urls:
-    - https://charts.blazure.com/nzbhydra-0.1.6.tgz
-    version: 0.1.6
-generated: "2020-01-14T17:04:08.318375819Z"
+    - https://charts.blazure.com/ombi-1.1.tgz
+    version: "1.1"
+generated: "2020-01-14T17:38:55.646487084Z"
