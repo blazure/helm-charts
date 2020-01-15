@@ -1,9 +1,29 @@
 apiVersion: v1
 entries:
+  bazarr:
+  - apiVersion: v1
+    appVersion: latest
+    created: "2020-01-15T22:48:21.357499463Z"
+    description: Bazarr is a companion application to Sonarr and Radarr. It can manage
+      and download subtitles based on your requirements. You define your preferences
+      by TV show or movie and Bazarr takes care of everything for you.
+    digest: 4d39236992143abd55b03560695f270138597d6416404beefee5417e5d40aac0
+    icon: https://www.bazarr.media/assets/img/logo.png
+    maintainers:
+    - email: helm@gavinmogan.com
+      name: Gavin Mogan
+    - email: ryan@ryanholt.net
+      name: Ryan Holt
+    name: bazarr
+    sources:
+    - https://github.com/morpheus65535/bazarr
+    urls:
+    - https://charts.blazure.com/bazarr-0.1.4.tgz
+    version: 0.1.4
   heimdall:
   - apiVersion: v1
     appVersion: e7a6ac5a-ls40
-    created: "2020-01-15T03:08:52.31379942Z"
+    created: "2020-01-15T22:48:21.362353602Z"
     description: Heimdall Application Dashboard is a dashboard for all your web applications.
       It doesn't need to be limited to applications though, you can add links to anything
       you like. Heimdall is an elegant solution to organise all your web applications.
@@ -21,7 +41,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: e7a6ac5a-ls40
-    created: "2020-01-15T03:08:52.31333044Z"
+    created: "2020-01-15T22:48:21.360030529Z"
     description: Heimdall Application Dashboard is a dashboard for all your web applications.
       It doesn't need to be limited to applications though, you can add links to anything
       you like. Heimdall is an elegant solution to organise all your web applications.
@@ -40,7 +60,7 @@ entries:
   ombi:
   - apiVersion: v1
     appVersion: 4.0.4994-ls59
-    created: "2020-01-15T03:08:52.314317446Z"
+    created: "2020-01-15T22:48:21.36446614Z"
     description: Ombi is a self-hosted web application that automatically gives your
       shared Plex or Emby users the ability to request content by themselves! Ombi
       can be linked to multiple TV Show and Movie DVR tools to create a seamless end-to-end
@@ -62,7 +82,7 @@ entries:
   tautulli:
   - apiVersion: v1
     appVersion: latest
-    created: "2020-01-15T03:08:52.315206046Z"
+    created: "2020-01-15T22:48:21.368050618Z"
     description: Tautulli integrates with Plex to provide you a feature-rich dashboard
       of statistics from user activity to a graphical history of streams, play count,
       along with configurable notifications, and more.
@@ -79,7 +99,7 @@ entries:
     version: 0.1.3
   - apiVersion: v1
     appVersion: latest
-    created: "2020-01-15T03:08:52.314759342Z"
+    created: "2020-01-15T22:48:21.366212872Z"
     description: Tautulli integrates with Plex to provide you a feature-rich dashboard
       of statistics from user activity to a graphical history of streams, play count,
       along with configurable notifications, and more.
@@ -88,4 +108,4 @@ entries:
     urls:
     - https://charts.blazure.com/tautulli-0.1.2.tgz
     version: 0.1.2
-generated: "2020-01-15T03:08:52.312203234Z"
+generated: "2020-01-15T22:48:21.356269935Z"
