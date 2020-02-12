@@ -3,7 +3,7 @@ entries:
   bazarr:
   - apiVersion: v1
     appVersion: latest
-    created: "2020-02-12T17:26:39.192023971Z"
+    created: "2020-02-12T17:30:01.749533636Z"
     description: Bazarr is a companion application to Sonarr and Radarr. It can manage
       and download subtitles based on your requirements. You define your preferences
       by TV show or movie and Bazarr takes care of everything for you.
@@ -20,7 +20,7 @@ entries:
     version: 0.1.5
   - apiVersion: v1
     appVersion: latest
-    created: "2020-02-12T17:26:39.191582972Z"
+    created: "2020-02-12T17:30:01.749061984Z"
     description: Bazarr is a companion application to Sonarr and Radarr. It can manage
       and download subtitles based on your requirements. You define your preferences
       by TV show or movie and Bazarr takes care of everything for you.
@@ -40,7 +40,7 @@ entries:
   heimdall:
   - apiVersion: v1
     appVersion: e7a6ac5a-ls40
-    created: "2020-02-12T17:26:39.192947417Z"
+    created: "2020-02-12T17:30:01.750479088Z"
     description: Heimdall Application Dashboard is a dashboard for all your web applications.
       It doesn't need to be limited to applications though, you can add links to anything
       you like. Heimdall is an elegant solution to organise all your web applications.
@@ -58,7 +58,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: e7a6ac5a-ls40
-    created: "2020-02-12T17:26:39.19249Z"
+    created: "2020-02-12T17:30:01.750018334Z"
     description: Heimdall Application Dashboard is a dashboard for all your web applications.
       It doesn't need to be limited to applications though, you can add links to anything
       you like. Heimdall is an elegant solution to organise all your web applications.
@@ -77,7 +77,7 @@ entries:
   ombi:
   - apiVersion: v1
     appVersion: 4.0.4994-ls59
-    created: "2020-02-12T17:26:39.193424252Z"
+    created: "2020-02-12T17:30:01.750925633Z"
     description: Ombi is a self-hosted web application that automatically gives your
       shared Plex or Emby users the ability to request content by themselves! Ombi
       can be linked to multiple TV Show and Movie DVR tools to create a seamless end-to-end
@@ -99,7 +99,24 @@ entries:
   tautulli:
   - apiVersion: v1
     appVersion: latest
-    created: "2020-02-12T17:26:39.194706308Z"
+    created: "2020-02-12T17:30:01.752742607Z"
+    description: Tautulli integrates with Plex to provide you a feature-rich dashboard
+      of statistics from user activity to a graphical history of streams, play count,
+      along with configurable notifications, and more.
+    digest: 86cb5bf6fdd39043ceb8625789ffe749221d28a133fdc3fc454704dae7b3d4e5
+    home: https://github.com/carpenike/chart-tautulli
+    icon: https://tautulli.com/images/logo.svg
+    keywords:
+    - tautulli
+    name: tautulli
+    sources:
+    - https://github.com/Tautulli/Tautulli
+    urls:
+    - https://charts.blazure.com/tautulli-0.1.5.tgz
+    version: 0.1.5
+  - apiVersion: v1
+    appVersion: latest
+    created: "2020-02-12T17:30:01.752257804Z"
     description: Tautulli integrates with Plex to provide you a feature-rich dashboard
       of statistics from user activity to a graphical history of streams, play count,
       along with configurable notifications, and more.
@@ -116,7 +133,7 @@ entries:
     version: 0.1.4
   - apiVersion: v1
     appVersion: latest
-    created: "2020-02-12T17:26:39.194253512Z"
+    created: "2020-02-12T17:30:01.751796275Z"
     description: Tautulli integrates with Plex to provide you a feature-rich dashboard
       of statistics from user activity to a graphical history of streams, play count,
       along with configurable notifications, and more.
@@ -133,7 +150,7 @@ entries:
     version: 0.1.3
   - apiVersion: v1
     appVersion: latest
-    created: "2020-02-12T17:26:39.193805342Z"
+    created: "2020-02-12T17:30:01.751337312Z"
     description: Tautulli integrates with Plex to provide you a feature-rich dashboard
       of statistics from user activity to a graphical history of streams, play count,
       along with configurable notifications, and more.
@@ -142,4 +159,4 @@ entries:
     urls:
     - https://charts.blazure.com/tautulli-0.1.2.tgz
     version: 0.1.2
-generated: "2020-02-12T17:26:39.190947923Z"
+generated: "2020-02-12T17:30:01.748414627Z"
